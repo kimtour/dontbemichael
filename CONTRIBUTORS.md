@@ -7,7 +7,7 @@ It is generated from the pull requests themselves rather than from commit metada
 dropped because their git email does not happen to match their GitHub account. It is regenerated
 from merged pull requests, so you appear without having to ask.
 
-**36 people** have contributed so far.
+**44 people** have contributed so far.
 
 <a href="https://github.com/agentvivekkumar/dontbemichael/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=agentvivekkumar/dontbemichael" alt="Contributor avatars">
@@ -23,7 +23,7 @@ requests, and a pull request always has a real account behind it.
 | Contributor | Contributions | First | Most recent |
 |---|---:|---|---|
 | [@agentvivekkumar](https://github.com/agentvivekkumar) | 47 | 2026-09-15 | 2026-10-12 |
-| [@amartya1523](https://github.com/amartya1523) | 10 | 2026-10-10 | 2026-10-12 |
+| [@amartya1523](https://github.com/amartya1523) | 12 | 2026-10-10 | 2026-10-12 |
 | [@dhruvpuri](https://github.com/dhruvpuri) | 7 | 2026-10-10 | 2026-10-10 |
 | [@codedbygo](https://github.com/codedbygo) | 2 | 2026-10-10 | 2026-10-10 |
 | [@init-pushu](https://github.com/init-pushu) | 2 | 2026-10-10 | 2026-10-12 |
@@ -58,8 +58,16 @@ requests, and a pull request always has a real account behind it.
 | [@dhivij](https://github.com/dhivij) | 1 | 2026-10-12 | 2026-10-12 |
 | [@AryakumarMishra](https://github.com/AryakumarMishra) | 1 | 2026-10-12 | 2026-10-12 |
 | [@hanifstudio](https://github.com/hanifstudio) | 1 | 2026-10-12 | 2026-10-12 |
+| [@VaibhavGarg2003](https://github.com/VaibhavGarg2003) | 1 | 2026-10-12 | 2026-10-12 |
+| [@LhaseParth2610](https://github.com/LhaseParth2610) | 1 | 2026-10-12 | 2026-10-12 |
+| [@din-tezekbayev](https://github.com/din-tezekbayev) | 1 | 2026-10-12 | 2026-10-12 |
+| [@mlnu5-markaashish](https://github.com/mlnu5-markaashish) | 1 | 2026-10-12 | 2026-10-12 |
+| [@Ayash3690](https://github.com/Ayash3690) | 1 | 2026-10-12 | 2026-10-12 |
+| [@coolman-97](https://github.com/coolman-97) | 1 | 2026-10-12 | 2026-10-12 |
+| [@YRoyal-Inc](https://github.com/YRoyal-Inc) | 1 | 2026-10-12 | 2026-10-12 |
+| [@ncodekeng](https://github.com/ncodekeng) | 1 | 2026-10-12 | 2026-10-12 |
 
-_101 pull requests from 36 people._
+_111 pull requests from 44 people._
 
 ## † Contributions that never got the merged badge
 
